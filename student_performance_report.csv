@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Data_Analysis,AI,Attendance,Total_Marks,Average_Marks,Grade,Result
+S001,Aarav,Computer Science,85,78,91,92,254,84.66666666666667,A,PASS
+S002,Diya,Computer Science,72,81,76,88,229,76.33333333333333,B,PASS
+S003,Rohan,Information Science,91,89,94,96,274,91.33333333333333,A+,PASS
+S004,Ananya,Information Science,68,74,71,84,213,71.0,B,PASS
+S005,Vikram,Computer Science,55,62,58,79,175,58.333333333333336,D,PASS
+S006,Sneha,Data Science,88,93,86,95,267,89.0,A,PASS
+S007,Kiran,Data Science,76,69,73,82,218,72.66666666666667,B,PASS
+S008,Meera,Computer Science,94,90,97,98,281,93.66666666666667,A+,PASS
+S009,Arjun,Information Science,63,57,66,76,186,62.0,C,PASS
+S010,Ishita,Data Science,81,85,79,91,245,81.66666666666667,A,PASS
+S011,Rahul,Computer Science,47,52,44,78,143,47.666666666666664,F,PASS
+S012,Pooja,Information Science,73,77,70,86,220,73.33333333333333,B,PASS
+S013,Nikhil,Data Science,39,45,42,80,126,42.0,F,PASS
+S014,Kavya,Computer Science,86,82,88,94,256,85.33333333333333,A,PASS
+S015,Aditya,Information Science,58,49,54,72,161,53.666666666666664,D,FAIL
+S016,Neha,Data Science,92,87,90,97,269,89.66666666666667,A,PASS
+S017,Manoj,Computer Science,67,64,61,83,192,64.0,C,PASS
+S018,Sanya,Information Science,79,83,75,89,237,79.0,B,PASS
+S019,Ritesh,Data Science,51,46,49,74,146,48.666666666666664,F,FAIL
+S020,Aisha,Computer Science,89,95,92,93,276,92.0,A+,PASS
